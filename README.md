@@ -9,9 +9,9 @@ Here is a working live demo : http://camagru.ovh/
 
 ## Technology stack
 
-+ Front: HTML5, CSS3, Javascript, Ajax
++ Front-end: HTML5, CSS3, Javascript, Ajax
 + Framework CSS: Bulma
-+ Back: PHP, MySQL
++ Back-end: PHP, MySQL
 
 ## Key features
 
