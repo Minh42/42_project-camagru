@@ -36,6 +36,6 @@ Here is a working live demo : http://camagru.ovh/
   - [x] Infinite scroll
 
 ## Possible improvements
-+ best practices
++ Best practices
   - [ ] MVC pattern
   - [ ] Folder structure
