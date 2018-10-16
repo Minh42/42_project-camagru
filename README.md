@@ -13,8 +13,6 @@ Here is a working live demo : http://camagru.ovh/
 + Framework CSS: Bulma
 + Back: PHP, MySQL
 
-![Tables relations](https://i.imgur.com/GYTttJ5.png)
-
 ## Key features
 
 + User features
